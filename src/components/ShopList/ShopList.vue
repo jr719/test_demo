@@ -52,7 +52,7 @@
       <img src="./images/1.png"/>
       <div class="desc">
         <p><span>品牌</span><span>锄禾日当午</span></p>
-        <p>xxxxx 月售100笔</p>
+        <p>zxc 月售100笔</p>
         <p>￥201起送</p>
       </div>
     </li>
